@@ -1,8 +1,8 @@
 # 📊Tableau Projects Collection
 
 ## 🔎Introduction
-Welcome to my Tableau Projects Repository!
-This repository showcases a diverse set of Tableau projects that I've developed to derive actionable insights from data through powerful visualizations and analyses. 
+Welcome to my Tableau Projects Repository!  
+This repository showcases a diverse set of Tableau projects that I've developed to derive actionable insights from data through powerful visualizations and analyses.  
 Each project demonstrates different functionalities and highlights my proficiency in using Tableau for data management, analysis, and visualization.
 
 ## 💡Project List
