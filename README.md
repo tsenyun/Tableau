@@ -2,24 +2,25 @@
 
 ## 🔎Introduction
 Welcome to my Tableau Projects Repository!
-This repository showcases a diverse set of Tableau projects that I've developed to derive actionable insights from data through powerful visualizations and analyses. Each project demonstrates different functionalities and highlights my proficiency in using Tableau for data management, analysis, and visualization.
+This repository showcases a diverse set of Tableau projects that I've developed to derive actionable insights from data through powerful visualizations and analyses. 
+Each project demonstrates different functionalities and highlights my proficiency in using Tableau for data management, analysis, and visualization.
 
 ## 💡Project List
 Explore the projects included in this repository:
 
-### 🏠Airbnb NYC Dashboard
-- **Description**: Utilized Excel to clean and organize a dataset of 48,576 Airbnb listings in NYC.
+### 🏠[Airbnb NYC Dashboard](https://public.tableau.com/app/profile/tsen.yun.hung/viz/AirbnbFullProject_17110211825930/Dashboard1) (Best viewed in Desktop Layout)
+- **Description**: Utilized **Excel** to clean and organize a dataset of 48,576 Airbnb listings in NYC by using **Tableau**.
 - **Features**:
   - Cleaned and organized data using Excel.
   - Created interactive visualizations and dashboards in Tableau.
   - Enabled insightful data-driven decision-making.
 - **Usage**: This dashboard helps stakeholders understand trends and patterns in the Airbnb market in NYC, facilitating strategic planning and market analysis.
 
-### 🍻Oktoberfest Dashboard
+### 🍻[Oktoberfest Dashboard](https://public.tableau.com/app/profile/tsen.yun.hung/viz/Oktoberfest_17119792725790/Dashboard1) (Best viewed in Desktop Layout.)
 - **Description**: Analyzed a dataset of 36 Oktoberfest records, including beer and chicken consumption.
 - **Features**:
-  - Cleaned and organized data using Excel.
-  - Created interactive visualizations in Tableau to present key insights.
+  - Cleaned and organized data using **Excel**.
+  - Created interactive visualizations in **Tableau** to present key insights.
   - Visualized consumption trends and pricing over the years.
 - **Usage**: This dashboard provides insights into the trends of beer and roast chicken consumption at Oktoberfest, useful for event organizers and vendors to plan and manage resources effectively.
 
